@@ -12,7 +12,7 @@ import org.apache.poi.ss.usermodel.WorkbookFactory;
  *
  */
 public class FileLib {
-	/*this methodis used to read property value from common data file*/
+	/*this method is used to read property value from common data file*/
 	public String getKeyPropertyValue(String PropPath,String key) throws Throwable
 	{
 		FileInputStream readProp = new FileInputStream(PropPath);

@@ -20,20 +20,20 @@
       <![CDATA[verifyCRMLoginTest Test Passed]]>
     </line>
   </reporter-output>
-  <suite name="Camapaign.LoginTest" duration-ms="15648" started-at="2019-09-10T12:52:58Z" finished-at="2019-09-10T12:53:13Z">
+  <suite name="Camapaign.LoginTest" duration-ms="30396" started-at="2019-09-12T11:03:55Z" finished-at="2019-09-12T11:04:25Z">
     <groups>
     </groups>
-    <test name="Command line test" duration-ms="15648" started-at="2019-09-10T12:52:58Z" finished-at="2019-09-10T12:53:13Z">
+    <test name="Command line test" duration-ms="30396" started-at="2019-09-12T11:03:55Z" finished-at="2019-09-12T11:04:25Z">
       <class name="Camapaign.LoginTest">
-        <test-method status="PASS" signature="openBrowser()[pri:0, instance:Camapaign.LoginTest@2c9f9fb0]" name="openBrowser" is-config="true" duration-ms="4303" started-at="2019-09-10T12:52:58Z" finished-at="2019-09-10T12:53:02Z">
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:Camapaign.LoginTest@2c9f9fb0]" name="openBrowser" is-config="true" duration-ms="10985" started-at="2019-09-12T11:03:55Z" finished-at="2019-09-12T11:04:06Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- openBrowser -->
-        <test-method status="PASS" signature="loginToApp()[pri:0, instance:Camapaign.LoginTest@2c9f9fb0]" name="loginToApp" is-config="true" duration-ms="7420" started-at="2019-09-10T12:53:02Z" finished-at="2019-09-10T12:53:09Z">
+        <test-method status="PASS" signature="loginToApp()[pri:0, instance:Camapaign.LoginTest@2c9f9fb0]" name="loginToApp" is-config="true" duration-ms="13213" started-at="2019-09-12T11:04:06Z" finished-at="2019-09-12T11:04:19Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginToApp -->
-        <test-method status="PASS" signature="verifyCRMLoginTest()[pri:0, instance:Camapaign.LoginTest@2c9f9fb0]" name="verifyCRMLoginTest" duration-ms="3894" started-at="2019-09-10T12:53:09Z" finished-at="2019-09-10T12:53:13Z">
+        <test-method status="PASS" signature="verifyCRMLoginTest()[pri:0, instance:Camapaign.LoginTest@2c9f9fb0]" name="verifyCRMLoginTest" duration-ms="6162" started-at="2019-09-12T11:04:19Z" finished-at="2019-09-12T11:04:25Z">
           <reporter-output>
             <line>
               <![CDATA[verifyCRMLoginTest Test Started]]>
@@ -52,7 +52,7 @@
             </line>
           </reporter-output>
         </test-method> <!-- verifyCRMLoginTest -->
-        <test-method status="PASS" signature="logoutFromApp()[pri:0, instance:Camapaign.LoginTest@2c9f9fb0]" name="logoutFromApp" is-config="true" duration-ms="1" started-at="2019-09-10T12:53:13Z" finished-at="2019-09-10T12:53:13Z">
+        <test-method status="PASS" signature="logoutFromApp()[pri:0, instance:Camapaign.LoginTest@2c9f9fb0]" name="logoutFromApp" is-config="true" duration-ms="0" started-at="2019-09-12T11:04:25Z" finished-at="2019-09-12T11:04:25Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- logoutFromApp -->
